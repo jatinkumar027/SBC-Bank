@@ -1,0 +1,5 @@
+.search-bar-container,
+.search-bar-button,
+.view-transaction-btn{
+    display: none;
+}

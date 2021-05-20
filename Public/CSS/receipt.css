@@ -1,0 +1,10 @@
+
+.search-bar-container{
+    display: none;
+}
+.search-bar-button{
+    display: none;
+}
+body{
+    background: rgb(148 168 183);
+}
