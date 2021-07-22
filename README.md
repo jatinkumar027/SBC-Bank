@@ -6,8 +6,7 @@
 
 **Sparks Foundation Web Development Internship Project**
 
-Basic Banking System website. A web application used to transfer virtual money between multiple users and also record the banking transactions/ activities.
-
+Built a dynamic Banking Administration System for the transaction of money between accounts with connection to databases for storing and updating the details of customers and tracking all the transactions.
 
 ## Features
 
@@ -18,6 +17,13 @@ Basic Banking System website. A web application used to transfer virtual money b
     3. Transaction flow and Payment receipt.
     4. Transaction log containing history of transactions.
 
+## Tech Stack
+
+**Front-end** : HTML5, CSS3, JavaScript, ajax, jQuery
+
+**Back-end** : PHP
+
+**Database** : MySQL
 
 ## Website Flow
 
