@@ -44,6 +44,9 @@ Built a dynamic Banking Administration System for the transaction of money betwe
 
 This project is for practice and knowledge purpose
 
+## Screenshots
+![Screenshot1](https://github.com/jatinkumar027/SBC-Bank/blob/main/screenshots/Screenshot-1.png?raw=true)
+![Screenshot2](https://github.com/jatinkumar027/SBC-Bank/blob/main/screenshots/Screenshot-2.png?raw=true)
   
 ## Badges
 
